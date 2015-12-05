@@ -1,1 +1,1 @@
-WTFPL
+WTFPL http://www.wtfpl.net/
