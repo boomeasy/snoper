@@ -1,7 +1,7 @@
 
 function doclick(info, tab) {
   
-  var snoper = 'http://www.snopes.com/search/?q='+info.selectionText
+  var snoper = 'http://www.snopes.com/?s=='+info.selectionText
   chrome.tabs.create({url: snoper});
 }
 
